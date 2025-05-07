@@ -1,5 +1,5 @@
 alert("Boas Vindas!");
-let nummax = 5000;
+let nummax = 100;
 
 let numsecret = parseInt(Math.random() * nummax + 1);
 console.log(numsecret);
